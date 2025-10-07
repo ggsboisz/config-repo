@@ -1,5 +1,4 @@
-message: "Hello from Config Server - Version 2 UPDATED"
+message: "Hello from Config Server - Version 1"
 app:
   name: "My Microservice"
-  version: "2.effeef0"
-  new-feature: "This is new in versiohghgn 2"
+  version: "11.0"
