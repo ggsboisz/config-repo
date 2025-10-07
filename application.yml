@@ -1,4 +1,4 @@
 message: "Hello from Config Server - Version 1"
 app:
   name: "My Microservice"
-  version: "12.0"
+  version: "13.0"
